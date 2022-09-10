@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Tushar
 #### I am a Full stack developer and a competitive programmer.
-![I am a Full stack developer and a competitive programmer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<!-- ![I am a Full stack developer and a competitive programmer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) -->
 
 Patience and Perseverance have enabled my endeavours to solve complex problems and contribute meaningfully to organisations I work.
 with
