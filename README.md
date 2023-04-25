@@ -10,8 +10,7 @@
 - 💬 Ask me about **development and problem solving question**
 
 - 📫 How to reach me **paltushar35@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 
  
